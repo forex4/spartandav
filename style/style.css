@@ -217,3 +217,14 @@ h3 {
     font-size: 34px;
     text-align: center;
 }
+
+.button {
+  background-color: #33FF00;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 22px;
+}
